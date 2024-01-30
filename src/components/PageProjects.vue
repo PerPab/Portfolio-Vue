@@ -2,7 +2,7 @@
     <div class="container-fluid d-flex flex-column align-items-center justify-content-start m-0 p-0 about">
         <h5 class="text-center mt-1">Proyectos</h5>
         <div class="contenedor ">
-            <div v-for="item in info" v-bind:key="item.title" class="p-0 m-0 card-container">
+            <div v-for="item in info" v-bind:key="item.title" class="p-0 m-0 card-container animate__animated animate__bounceIn">
             <ProjectCard :title="item.title" :description="item.description" :link="item.link" />
             </div>
 

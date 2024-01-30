@@ -5,8 +5,8 @@
                 <div class="m-2">
                         <img v-bind:src="logo" class="img-fluid rounded-start logo" alt="logo">
                 </div>
-                <div>
-                    <h6>{{ props.title }}</h6>
+                <div class="ms-2">
+                    <h6 class="m-0">{{ props.title }}</h6>
                 </div>               
             </div>
         </a>
@@ -29,11 +29,12 @@ const props = defineProps({
 
 .contact-card{
     width:100%;
+    height: 4rem;
     background-color: #F8F9FA;
     border-radius: 8px;
 }
 .logo{
-    width: 30px;
+    width: 40px;
 }
 
 
@@ -44,8 +45,10 @@ a {
     border: none;
     text-shadow: none;
     width: 50%;
-   
-    
+}
+
+a:hover{
+    transform: scale(1.02);
 }
 
 @media (max-width: 720px){

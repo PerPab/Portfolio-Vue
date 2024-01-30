@@ -1,7 +1,7 @@
 <template>
     <div class="container-fluid d-flex flex-column align-items-center justify-content-start  m-0 p-0 about">
         <h5 class="text-center mt-1">Estudios</h5>
-        <div class="container container-text p-2 d-flex justify-content-center">
+        <div class="container container-text p-2 d-flex justify-content-center animate__animated animate__bounceIn">
             <div class="accordion open" id="accordionExample">
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="headingOne">
@@ -136,6 +136,8 @@ h5 {
 
     p {
     font-size: 1.1rem;
+    font-weight: 400;
 }
 
-}</style>
+}
+</style>

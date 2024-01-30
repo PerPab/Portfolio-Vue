@@ -2,7 +2,7 @@
 <div class="container-fluid d-flex flex-column align-items-center justify-content-start m-0 p-0 about">
     <h5 class="text-center mt-1">Sobre Mi</h5>
     <img class="img-fluid profile  " src="img/prof-d-b2.png"/>
-    <div class="container container-text p-4">
+    <div class="container container-text p-4 animate__animated animate__bounceIn">
         <p class="text-center">Me llamo Pablo, actualmente soy estudiante de las carreras de
         Desarrollo de Software en ISTEA y Administración de Empresas en UTN.
         Durante

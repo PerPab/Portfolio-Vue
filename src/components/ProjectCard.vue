@@ -6,8 +6,7 @@
                 <h5 class="card-title">{{props.title}}</h5>
             </div>
             <div class="card-body">
-                <p class="card-text">{{props.description}}</p>
-            
+                <p class="card-text">{{props.description}}</p>         
             </div>
         </div>
     </a>
@@ -47,6 +46,18 @@ a{
     text-decoration: none;
     border: none;
     text-shadow: none;
+}
+a:hover{
+    transform: scale(1.02);
+}
+
+@media (max-width: 720px) {
+    .card{
+    width: 280px;
+    min-height: 240px;
+    border: none;
+    
+}
 }
 
 </style>

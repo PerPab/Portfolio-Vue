@@ -1,7 +1,7 @@
 <template>
     <div class="container-fluid d-flex flex-column align-items-center justify-content-start m-0 p-0 about">
         <h5 class="text-center mt-1">Contacto</h5>
-        <div class="container-fluid d-flex flex-column align-items-center justify-content-start">
+        <div class="container-fluid d-flex flex-column align-items-center justify-content-start animate__animated animate__bounceIn">
             <div v-for="item in info" v-bind:key="item.title" class="p-0 m-0 container-fluid">
                 <CardContact :title="item.title" :description="item.description" :link="item.link" :logo="item.logo" />
             </div>
