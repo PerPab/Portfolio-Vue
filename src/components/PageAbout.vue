@@ -3,10 +3,10 @@
     <h5 class="text-center mt-1">Sobre Mi</h5>
     <img class="img-fluid profile  " src="img/prof-d-b2.png"/>
     <div class="container container-text p-4 animate__animated animate__bounceIn">
-        <p class="text-center">Me llamo Pablo, actualmente soy estudiante de las carreras de
-        Desarrollo de Software en ISTEA y Administración de Empresas en UTN.
-        Durante
-        el año 2022 obtuve el título de Auxiliar en Programación. Me gusta la música, dibujar, la
+        <p class="text-center">Me llamo Pablo, soy estudiante de las carreras de
+        Desarrollo de Software en ISTEA y Administración de Empresas en UTN, y durante el año 2022 obtuve el título de Auxiliar en Programación.
+            Actualmente me desempeño como Programador Jr. en una empresa de Software.
+        Me gusta la música, dibujar, la
         edición de
         imágenes y diseñar logos e interfaces de usuario.
     </p>
