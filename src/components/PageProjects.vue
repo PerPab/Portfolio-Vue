@@ -26,9 +26,9 @@ let info = [{
     link: 'https://perpab.github.io/Generador-Grafico/'
 },
 {
-    title: "To Do list",
-    description: "Una App para guardar notas. Uso la API indexedDB para almacenar los datos de lado del cliente. Con estilo vintage y minimalista",
-    link: 'https://to-do-list-two-tau.vercel.app/'
+    title: "To Do list con voz",
+    description: "Una App para guardar tareas, almacena las notas en una API y utiliza Speech Synthesis para leerlas, permite configurar idioma y velocidad.",
+    link: 'https://perpab.github.io/parcial_2_PWA/'
 
 },
 {
