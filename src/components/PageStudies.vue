@@ -57,7 +57,7 @@
                                 adaptaba
                                 mejor a
                                 mis objetivos. Aprendí C# y SQL Server y a desarrollar interfaces gráficas 
-                                con WPF.
+                                con WPF, y a crear aplicaciones progresivas con Javascript.
                             </p>
                         </div>
                     </div>
