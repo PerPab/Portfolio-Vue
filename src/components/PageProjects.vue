@@ -56,15 +56,15 @@ let info = [{
 
 },
 {
-    title: "Práctica con objetos",
-    description: "Una aplicación de consola hecha en C# donde dos Robots se crean con stats aleatorios y combaten hasta que uno en vencido.",
-    link: 'https://github.com/PerPab/Practica-Robots'
+    title: "Aplicación de fotos Pip-Photo",
+    description: "Una aplicación para sacar y guardar fotos a través del mobil, guarda las imagenes en una API en formato Base64 y las renderiza en pantalla.",
+    link: 'https://perpab.github.io/PiP-photo/'
 
 },
 {
-    title: "Práctica Drag & Drop",
-    description: "Una aplicación realizada en Javascript, al arrastrar los objetos dentro del área, se suman o restan",
-    link: 'https://drag-and-drop-practica.vercel.app/'
+    title: "Tienda Online con carrito",
+    description: "Un ejemplo de tienda online con la implementación de un carrito de compras.",
+    link: 'https://perpab.github.io/ProyectoLabWeb/'
 
 },
 ]
